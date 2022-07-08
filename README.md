@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm beete</h1>
 <h3 align="center">I am a programmer and student, passionate about programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lbeete&label=Profile%20views&color=0e75b6&style=flat" alt="lbeete" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lbeete&label=Profile%20views&color=0e75b6&style=flat" alt="lbeete" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lbeete" alt="lbeete" /></a> </p>
 
