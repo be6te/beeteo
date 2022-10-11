@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Beete</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beeteo&label=Profile%20views&color=0e75b6&style=flat" alt="beeteo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=beeteo&label=Profile%20views&color=0e75b6&style=flat" alt="beeteo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/beetezzz" target="blank"><img src="https://img.shields.io/twitter/follow/beetezzz?logo=twitter&style=for-the-badge" alt="beetezzz" /></a> </p>
+<p align="center"> <a href="https://twitter.com/beetezzz" target="blank"><img src="https://img.shields.io/twitter/follow/beetezzz?logo=twitter&style=for-the-badge" alt="beetezzz" /></a> </p>
+
+---
 
 - 🔭 I’m currently working on [Kimai](https://github.com/beeteo/Kimai)
 
 - 🌱 I’m currently learning **Flask, NodeJS**
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
